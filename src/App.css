@@ -1,0 +1,47 @@
+.navbar{
+  display: flex;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 600px;
+
+}
+
+
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+
+
+.create{
+  width: 400px;
+  margin: 0 auto;
+}
+
+.create label{
+  display: block;
+  text-align: left;
+}
+
+.create input, .create textarea, .create select, .create button{
+  display: block;
+  text-align: left;
+  width: 100%;
+}
+
+
+.blog-preview{
+  width: 400px;
+  margin: auto;
+}
+
+.blog-details{
+  width: 400px;
+  margin: auto;
+}
+
+.blog-preview a{
+  text-decoration: none;
+}
+
